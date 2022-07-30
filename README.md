@@ -3,7 +3,7 @@
 Ce travail a été réalisé lors du projet 4 de ma formation [OpenClassrooms](https://openclassrooms.com/fr/) de Data Scientist durant les mois de Février et Mars 2022. Il s'appuie sur les [données de la ville de Seattle](https://www.kaggle.com/datasets/city-of-seattle/sea-building-energy-benchmarking).
 
 ### Mission
-Le but du projet est de faciliter le travail des agents de la ville qui réalisent minutieusement les rélevés énergétiqaues des bâtiments. Pour cela, il faudra tenter de prédire les émissions de CO2 et la consommation totale d’énergie de bâtiments non destinés à l’habitation.
+Le but du projet est de faciliter le travail des agents de la ville qui réalisent minutieusement les rélevés énergétiques des bâtiments. Pour cela, il faudra tenter de prédire les émissions de CO2 et la consommation totale d’énergie de bâtiments non destinés à l’habitation.
 L'intérêt de l'*ENERGY STAR Score* pour la prédiction d'émissions sera à évaluer car son calcul est fastidieux.
 
 ### Compétences acquises
